@@ -1,5 +1,5 @@
 CodeBook
-
+========
 Link to Original Data : http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The TidyData set includes 720 observations from 21 variables. 
