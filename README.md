@@ -1,4 +1,6 @@
-Getting and Cleaning Data - Course Project
+README
+========
+###Getting and Cleaning Data - Course Project
 
 The first thing i did was analyze the data provided. I uploaded the data in RStudio and viewed how the data looks like. I also used "str" function to check further specifications. 
 
